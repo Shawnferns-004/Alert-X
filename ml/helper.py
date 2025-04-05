@@ -42,8 +42,8 @@ searching image from googe and downloading
 # import os
 
 # # Replace with your own Google Custom Search API key & CX
-# API_KEY = "AIzaSyCadwy2Ov3W7O2ngBH3ageyQLQ7QJMtiE0"
-# CX = "f00e7b98b0d9a4527"
+# API_KEY = "your-api-key"
+# CX = ""
 
 # # Initialize Google Image Search
 # gis = GoogleImagesSearch(API_KEY, CX)
